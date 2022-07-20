@@ -1,17 +1,22 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+Date created
+28/06/2022
 
-### Date created
-Include the date you created this project and README file.
+Project Title
+Github Project
 
-### Project Title
-Replace the Project Title
+Description
+Using the local git repository and GitHub repository to stage, create, and do other requirements mentioned in the rubric to get the best knowledge about git commands. Here the bickshare project is used for the purpose of applying the commands.
 
-### Description
-Describe what your project is about and what it does
+Files Used -
+Python File Manual.yml
 
-### Files used
-Include the files used
+Python Files
+bikeshare.py
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+CSV Files
+[1] Chicago.csv [2] Newyork_City.csv [3] Washington.csv
 
+Credits
+-@SudKul (Udacity mentor) (https://github.com/udacity/pdsnd_github/commits?author=SudKul)
+
+Special Thanks to the Udacity Teams.
